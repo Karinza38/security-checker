@@ -1,4 +1,4 @@
-SensioLabs Security Checker
+ SensioLabs Security Checker
 ===========================
 
 The SensioLabs Security Checker is a command line tool that checks if your
